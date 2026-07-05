@@ -37,5 +37,3 @@ Lifetime Value (CLV).
 Python, Pandas, NumPy, Scikit-learn, sklearn-extra (KMedoids), 
 SciPy (Hierarchical Clustering), Matplotlib, Seaborn
 
-## Note
-Data Mining academic team project.
